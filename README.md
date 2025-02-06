@@ -1,1 +1,1 @@
-# JavaGame
+This is my submission to an assignment I had to complete for my university. It is a 2D-platformer-shooter game that can generate it's own levels and progress infinitely until the player loses. There are 3 distinct level types, each with different graphics. Disclaimer: All the graphics were found on the internet and in most cases in Itch.io and the game engine that is used is a proprietary wrapper of the jbox2d engine. The original engine is open source but the wrapper class is made by City, University of London.
